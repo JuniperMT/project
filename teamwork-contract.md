@@ -3,11 +3,6 @@ title: Teamwork Code of Conduct
 subtitle: Team contract template, Fall 2026
 ---
 
-This document is a framework for your team to establish a clear and effective working agreement. Fill out the sections below **as a team** to create your official contract.
-
-:::{important}
-Copy this page into your GitHub group repository as `CODE_OF_CONDUCT.md`, complete every section, and submit it as part of the Teamwork Contract and Project Scoping deliverable — due **Monday, September 21** (Week 3). See [the syllabus](syllabus.md#teamwork-contract) for how it is marked.
-:::
 
 :::{tip}
 This is graded on specificity rather than polish. "We will communicate well" carries little credit. "Progress posted to the team channel by Monday 9 AM, with anyone silent for 72 hours escalated to the supervisor" is what the contract is for.
@@ -17,10 +12,10 @@ This is graded on specificity rather than polish. "We will communicate well" car
 
 What are the names of all the team members?
 
-- [Team Member Name 1]
-- [Team Member Name 2]
-- [Team Member Name 3]
-- [Team Member Name 4]
+- Tanisha Kumari
+- Juniper Morrison-Turley
+- MdAmir Hossain
+
 
 ## Expectations
 
@@ -31,7 +26,7 @@ What are the names of all the team members?
 [Answer]
 
 **Process for notifying the team if a member cannot complete tasks on time:**
-[Answer]
+Messaging through teams or imessage
 
 **Quality standards for all submissions:**
 [Answer]
@@ -48,7 +43,7 @@ What are the names of all the team members?
 [Answer]
 
 **How and when we will meet with our mentor:**
-[Answer]
+Fridays at 11:30 am 
 
 ## Task Management
 
@@ -99,15 +94,15 @@ Accountability · Achievement · Adaptability · Ambition · Authenticity · Bal
 
 ### Team member values
 
-**Name:** [Team Member Name]
+**Name:** Juniper Morrison-Turley
 
 | Value | Definition / Example |
 |---|---|
-| 1 | [Definition / Example] |
-| 2 | [Definition / Example] |
-| 3 | [Definition / Example] |
-| 4 | [Definition / Example] |
-| 5 | [Definition / Example] |
+| Openness | I will consult with team members about changes and be open to other ideas, as well as explaining my own |
+| Creativity | I approach problems in new ways constantly and have a passion for design |
+| Wellbeing | I tend to prioritize work life balance so that i can always be at my best during the periods of time where it's needed |
+| Honesty | I clearly explain my thoughts and will communicate problems I am having with the team |
+| Recognition |  I recognize my team members achievements and do my best to support them   |
 
 **Name:** [Team Member Name]
 
